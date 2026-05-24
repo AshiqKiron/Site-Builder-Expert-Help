@@ -2,6 +2,8 @@
 An AI-powered custom GPT specialized in Wix Studio, Velo, CMS, APIs, Ecommerce, SEO, and production-grade Wix development workflows.
 Built to provide accurate, implementation-focused guidance using a structured markdown knowledge base optimized for retrieval and low hallucination risk.
 
+### Screenshot - App screenshot ![Screenshot](Screenshot.png)
+
 ---
 
 ## Features
